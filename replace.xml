@@ -86,4 +86,7 @@
 
 <remove-project name="platform/system/apex" />
 <project path="system/apex" name="platform_system_apex" remote="td" revision="android-14.0.0_r31-td" />
+
+<remove-project name="platform/packages/modules/DnsResolver" />
+<project path="packages/modules/DnsResolver" name="platform_packages_modules_DnsResolver" remote="td" revision="android-14.0.0_r31-td" />
 </manifest>
